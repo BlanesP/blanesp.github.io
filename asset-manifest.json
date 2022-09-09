@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07be1566.css",
+    "main.js": "/static/js/main.0463b611.js",
+    "static/media/marvel_api.png": "/static/media/marvel_api.726855a787e94bf8d4a8.png",
+    "static/media/tile_feed.png": "/static/media/tile_feed.1176d1826fc4d7c9c2bb.png",
+    "static/media/cocoapods_spm.png": "/static/media/cocoapods_spm.21b251d818a53188d860.png",
+    "static/media/xcode.png": "/static/media/xcode.fafeeddf2ff96348a812.png",
+    "static/media/coredata.png": "/static/media/coredata.619bc0764652d95a33ad.png",
+    "static/media/swift.png": "/static/media/swift.942aeaf386174f0a6901.png",
+    "static/media/travelnet.png": "/static/media/travelnet.8dee7c5ff4e81e473d3c.png",
+    "static/media/snapshot_testing.png": "/static/media/snapshot_testing.f0d1d1b6b617520781ad.png",
+    "static/media/fintonic.png": "/static/media/fintonic.fe3b8bf216da604aa19e.png",
+    "static/media/combine.png": "/static/media/combine.9ae9eddacbd0c573ccaa.png",
+    "static/media/swiftui.png": "/static/media/swiftui.f7abce6d5d7c9058f9fb.png",
+    "static/media/imagin_teens.png": "/static/media/imagin_teens.7b65d3e586530f44530b.png",
+    "static/media/ci.png": "/static/media/ci.dc2ac488b133f81d1b44.png",
+    "static/media/mvc_mvvm.jpeg": "/static/media/mvc_mvvm.083c888dbd9f2bbe96ad.jpeg",
+    "static/media/git.png": "/static/media/git.35a339ef931f1c3b834f.png",
+    "index.html": "/index.html",
+    "main.07be1566.css.map": "/static/css/main.07be1566.css.map",
+    "main.0463b611.js.map": "/static/js/main.0463b611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07be1566.css",
+    "static/js/main.0463b611.js"
+  ]
+}
