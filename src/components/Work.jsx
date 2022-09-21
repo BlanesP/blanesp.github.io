@@ -3,12 +3,12 @@ import React from 'react'
 function Work() {
 
   const projects = [
-    // {
-    //   image: "fintonic.png",
-    //   title: "Fintonic",
-    //   description: "Reach all your financial goals with Fintonic, the leading platform in loans, cards, insurance and open banking.",
-    //   link: "https://apps.apple.com/es/app/fintonic-ahorra-y-fin%C3%A1nciate/id672220319"
-    // },
+    {
+      image: "fintonic.png",
+      title: "Fintonic",
+      description: "Reach all your financial goals with Fintonic, the leading platform in loans, cards, insurance and open banking.",
+      link: "https://apps.apple.com/es/app/fintonic-ahorra-y-fin%C3%A1nciate/id672220319"
+    },
     {
       image: "wabi2b.png",
       title: "Wabi2b",
