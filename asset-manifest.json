@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.07be1566.css",
-    "main.js": "/static/js/main.0463b611.js",
+    "main.js": "/static/js/main.e443a94f.js",
     "static/media/marvel_api.png": "/static/media/marvel_api.726855a787e94bf8d4a8.png",
     "static/media/tile_feed.png": "/static/media/tile_feed.1176d1826fc4d7c9c2bb.png",
     "static/media/cocoapods_spm.png": "/static/media/cocoapods_spm.21b251d818a53188d860.png",
@@ -19,10 +19,10 @@
     "static/media/git.png": "/static/media/git.35a339ef931f1c3b834f.png",
     "index.html": "/index.html",
     "main.07be1566.css.map": "/static/css/main.07be1566.css.map",
-    "main.0463b611.js.map": "/static/js/main.0463b611.js.map"
+    "main.e443a94f.js.map": "/static/js/main.e443a94f.js.map"
   },
   "entrypoints": [
     "static/css/main.07be1566.css",
-    "static/js/main.0463b611.js"
+    "static/js/main.e443a94f.js"
   ]
 }
